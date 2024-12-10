@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🛠️ Taimuraz Olegovich Baskaev's GitHub Profile
 
-<!--
-**baskaev/baskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Добро пожаловать на мой GitHub! Здесь вы найдете проекты, над которыми я работал, от новых до старых.  
+Интересуюсь **математикой, программированием**, и разрабатываю проекты на таких технологиях, как **Go, Python, PostgreSQL, React** и других.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Репозитории
+
+Этот список обновляется автоматически каждую ночь.
+
+<!--START_SECTION:repositories-->
+<!-- Здесь будет автоматически сгенерированный список репозиториев -->
+<!--END_SECTION:repositories-->
+
+---
+
+## 📈 Статистика GitHub
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=TaimurazBaskaev&show_icons=true&theme=radical)
+
+## 🚀 Свяжитесь со мной
+
+- ✉️ Email: [ваш email]
+- 💼 LinkedIn: [ваш профиль]
