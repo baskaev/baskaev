@@ -1,5 +1,4 @@
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNmeDR4enFyNzJudDV2bGJidWtlb3Rkc2ZoM3o2cDNtbGVmZHh5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif))
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ## Статистика и интересные факты 📈
 
