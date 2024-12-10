@@ -1,4 +1,4 @@
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611ynphjzp5lktzfqdxdturuchsz6s1g28dlvzgoqz9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Статистика и интересные факты 📈
 
