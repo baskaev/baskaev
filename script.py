@@ -2,8 +2,8 @@ import os
 import requests
 
 # Получаем имя пользователя и токен из переменных окружения
-USERNAME = os.getenv("GITHUB_USERNAME")
-TOKEN = os.getenv("GITHUB_TOKEN")
+USERNAME = os.getenv("USERNAME")
+TOKEN = os.getenv("TOKEN")
 
 if not USERNAME or not TOKEN:
     raise ValueError("Переменные окружения GITHUB_USERNAME и GITHUB_TOKEN не установлены")
