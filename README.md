@@ -1,21 +1,15 @@
-# 🛠️ Taimuraz Baskaev GitHub Profile
+# Привет, я Тимураз! 👋
 
-
-## 📂 Репозитории
-
-Этот список обновляется автоматически каждую ночь.
-
-<!--START_SECTION:repositories-->
-<!-- Здесь будет автоматически сгенерированный список репозиториев -->
-<!--END_SECTION:repositories-->
+![GitHub Banner](https://media.giphy.com/media/1xVifVuKphTKs9lDWs/giphy.gif)
 
 ---
 
-## 📈 Статистика GitHub
+## Статистика и интересные факты 📈
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=TaimurazBaskaev&show_icons=true&theme=radical)
+Вот как выглядят мои активные дни на GitHub:
 
-## 🚀 Свяжитесь со мной
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taimuraz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-- ✉️ Email: [ваш email]
-- 💼 LinkedIn: [ваш профиль]
+---
+
+> «Технологии — это мост, который соединяет невозможное с возможным.»
