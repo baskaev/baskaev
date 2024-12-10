@@ -23,7 +23,7 @@ jobs:
       - name: Run script
         env:
           USERNAME: ${{ secrets.USERNAME }}
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
         run: python script.py
 
       - name: Commit and push changes
