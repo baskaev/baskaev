@@ -1,5 +1,5 @@
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNmeDR4enFyNzJudDV2bGJidWtlb3Rkc2ZoM3o2cDNtbGVmZHh5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif))
 
-[<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52">via GIPHY</a></p>](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNmeDR4enFyNzJudDV2bGJidWtlb3Rkc2ZoM3o2cDNtbGVmZHh5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
 
 ## Статистика и интересные факты 📈
 
