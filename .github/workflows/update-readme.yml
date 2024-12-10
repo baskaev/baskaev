@@ -2,28 +2,35 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запуск каждую ночь
+    - cron: "0 0 * * *" # Автоматический запуск каждую ночь
   workflow_dispatch: # Возможность ручного запуска
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Repositories
-        uses: matootie/github-profile-repo-formatter@v1
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          username: TaimurazBaskaev
-          order: DESC
-          limit: 10
-          format: |
-            - [{{ name }}]({{ url }}) ⭐ {{ stargazers_count }} 🌟
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch Repositories and Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update_readme.py
+
       - name: Commit Changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add README.md
-          git commit -m "Updated README with latest repositories"
+          git commit -m "Update README with latest repositories"
           git push
