@@ -13,4 +13,22 @@
 ---
 
 «Технологии — это мост, который соединяет невозможное с возможным.»
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://c.tenor.com/gy_JCWwm2GYAAAAd/tenor.gif" width="600"/>
+  <img src="justDoItMEME/1.gif" width="600"/>
+  <img src="justDoItMEME/2.gif" width="600"/>
+  <img src="justDoItMEME/3.gif" width="600"/>
+  <img src="justDoItMEME/4.gif" width="600"/>
+  <img src="justDoItMEME/5.gif" width="600"/>
+  <img src="justDoItMEME/6.gif" width="600"/>
+  <img src="justDoItMEME/7.gif" width="600"/>
+  <img src="justDoItMEME/8.gif" width="600"/>
+  <img src="justDoItMEME/9.gif" width="600"/>
+  <img src="justDoItMEME/10.gif" width="600"/>
+
 </div>
